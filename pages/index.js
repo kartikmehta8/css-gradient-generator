@@ -31,16 +31,6 @@ export default function Home() {
               Created by{" "}
               <a href="https://github.com/kartikmehta8">Kartik Mehta</a>
             </p>
-            <p>
-              Originally created by Chicago web developer{" "}
-              <a href="http://johnpolacek.com">John Polacek</a>
-            </p>
-            <p>
-              Based on reference & procedure from{" "}
-              <a href="https://css-tricks.com/building-a-cool-front-end-thing-generator/">
-                CSS Tricks
-              </a>
-            </p>
           </footer>
         </AnimatedBackground>
       </SettingsProvider>
